@@ -10,7 +10,7 @@ travels as low as possible.
 In our case we focus of course on the distance. Our main goal is to get the shortest distance of a salesman traveling between the European 
 cities, using the genetic algorithm optimization method.  
 
-We save the data containing the distance between european cities in a file [eucit.csv]eucit.csv.   
+We save the data containing the distance between european cities in a file [eucit.csv](eucit.csv).   
 It will be imported by the program to configure the cities.  
 
 To run the program simply type:
